@@ -31,7 +31,7 @@ Explore the repository to find programs related to the following categories:
 1. Clone the repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/C-Programs-Practice.git
+    git clone https://github.com/enn-dee/ESC-201
     ```
 
 2. Navigate to the specific program's directory.
